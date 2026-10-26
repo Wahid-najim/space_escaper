@@ -1,4 +1,4 @@
-# space_escaper
+# space_escapeer
 # importing the libries
 import pygame
 import random
